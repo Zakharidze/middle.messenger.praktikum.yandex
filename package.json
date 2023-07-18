@@ -1,0 +1,10 @@
+{
+  "name": "middle.messenger.praktikum.yandex",
+  "version": "1.0.0",
+  ".nvmrc": "14.18.2",
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "4.4.4",
+    "handlebars": "4.7.7"
+  }
+}
